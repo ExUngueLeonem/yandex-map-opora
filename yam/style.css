@@ -1,0 +1,39 @@
+/* <style> */
+
+.ymaps-2-1-79-balloon__layout {
+    background-color: #203a69;
+}
+.ymaps-2-1-79-balloon__close {
+    color: #fff;
+}
+.ymaps-2-1-79-balloon__content {
+    background-color: #203a69;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.ymaps-2-1-79-balloon__close-button {
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin: 5px;    
+}
+.ya-baloon {
+    display: flex;
+    background-color: #203a69;
+    flex-direction: column;
+    width: 170px;
+}
+.ya-baloon__img {
+    display: block;
+    width: 170px;
+    heigth: 170px;
+}
+.ya-baloon__description {
+    font-size: 16px;
+    padding: 5px;
+    color: #fff;
+}
+
+
+/* </style> */
