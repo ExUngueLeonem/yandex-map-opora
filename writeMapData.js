@@ -6,157 +6,157 @@ const oporaMembersData = {
         {
             "name": "Дугин Виталий Николаевич",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "./rostov-na-donu",
+            "linkHref": "./novocherkassk",
             "direction": "Новочеркасск"
         },
         {
             "name": "Оплачков Артем Сергеевич",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./millerovskiy-rayon",
             "direction": "Миллеровский район"
         },
         {
             "name": "Продченко Сергей Юрьевич",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./salskiy-rayon",
             "direction": "Сальский район"
         },
         {
             "name": "Филиппенко Андрей Юрьевич",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./novoshahtinsk",
             "direction": "Новошахтинск"
         },
         {
             "name": "Халын Алексей Викторович",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./rostov-na-donu", 
             "direction": "Ростов-на-Дону"
         },
         {
             "name": "Никитченко Олег Николаевич",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./bataysk",
             "direction": "Батайск"
         },
         {
             "name": "Сечкин Дмитрий Петрович",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./voroshilovskiy-rayon-rostov-na-donu",
             "direction": "Ворошиловский район (Ростов-на-Дону)"
         },
         {
             "name": "Сечкин Дмитрий Петрович",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./leninskiy-rayon-rostov-na-donu",
             "direction": "Ленинский район (Ростов-на-Дону)"
         },
         {
             "name": "Чемеркина Инна Анатольевна",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./oktyabrskiy-rayon-rostov-na-donu",
             "direction": "Октябрьский район (Ростов-на-Дону)"
         },
         {
             "name": "Казанцев Дмитрий Александрович",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./bagaevskiy-rayon",
             "direction": "Багаевский район"
         },
         {
             "name": "Кобелева Галина Александровна",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./ust-donetskiy-rayon",
             "direction": "Усть-Донецкий район"
         },
         {
             "name": "Джереджа Антон Николаевич",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./matveevo-kurganskiy-rayon",
             "direction": "Матвеево-Курганский район"
         },
         {
             "name": "Хохлачев Евгений Сергеевич",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./oktyabrskiy-rayon-rostovskaya-oblast",
             "direction": "Октябрьский район (Ростовская область)"
         },
         {
             "name": "Бурцев Анатолий Юрьевич",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./belokalitvinskiy-rayon",
             "direction": "Белокалитвинский район"
         },
         {
             "name": "Лоскутов Роман Владимирович",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./chertkovskiy-rayon",
             "direction": "Чертковский район"
         },
         {
             "name": "Каменская Ксения Сергеевна",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./egorlykskiy-rayon",
             "direction": "Егорлыкский район"
         },
         {
             "name": "Ольховский Сергей Валерьевич",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./volgodonsk",
             "direction": "Волгодонск"
         },
         {
             "name": "Мелехов Михаил Георгиевич",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./myasnikovskiy-rayon",
             "direction": "Мясниковский район"
         },
         {
             "name": "Нестеренко Максим Александрович",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./gukovo-gorod",
             "direction": "Гуково (город)"
         },
         {
             "name": "Дорофеев Дмитрий Валерьевич",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./krasnosulinskiy-rayon",
             "direction": "Красносулинский район"
         },
         {
             "name": "Березовский Алексей Владимирович",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./sovetskiy-rayon-rostov-na-donu",
             "direction": "Советский район (Ростов-на-Дону)"
         },
         {
             "name": "Каралов Назим Вахидович",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./zverevo",
             "direction": "Зверево"
         },
         {
             "name": "Швец Сергей Иванович",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./sholohovskiy-rayon",
             "direction": "Шолоховский район"
         },
         {
             "name": "Сафронова Ирина Сергеевна",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./shahty",
             "direction": "Шахты"
         },
         {
             "name": "Щербина Евгений Владимирович",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./taganrog",
             "direction": "Таганрог"
         },
         {
             "name": "Игнатенко Елена Александровна",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./zernogradskiy-rayon",
             "direction": "Зерноградский район"
         },
         {
@@ -168,7 +168,7 @@ const oporaMembersData = {
         {
             "name": "Полякова Алина Сергеевна",
             "photoSrc": "\\netcat_files\\userfiles\\user-0_2.jpg",
-            "linkHref": "asdasdf",
+            "linkHref": "./kirovskiy-rayon-rostov-na-donu",
             "direction": "Кировский район (Ростов-на-Дону)"
         }
     ]
