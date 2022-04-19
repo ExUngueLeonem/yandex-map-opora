@@ -1,1 +1,172 @@
-{"oporaData":[{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Шолоховский район"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Батайск"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Ростов-на-Дону"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Шахты"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Матвеево-Курганский район"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Ростовская область"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Багаевский район"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Белокалитвинский район"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Ленинский район (Ростов-на-Дону)"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Советский район (Ростов-на-Дону)"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Миллеровский район"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Зверево"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Волгодонск"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Новошахтинск"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Сальский район"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Чертковский район"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Усть-Донецкий район"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Октябрьский район (Ростовская область)"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Зерноградский район"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Новочеркасск"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Красносулинский район"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Ворошиловский район (Ростов-на-Дону)"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Таганрог"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Октябрьский район (Ростов-на-Дону)"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Кировский район (Ростов-на-Дону)"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Гуково (город)"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Мясниковский район"},{"name":"asdasdf","photoSrc":"asdasdf","linkHref":"asdasdf","direction":"Егорлыкский район"}]}
+{
+    "oporaData": [
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Шолоховский район"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Батайск"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Ростов-на-Дону"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Шахты"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Матвеево-Курганский район"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Ростовская область"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Багаевский район"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Белокалитвинский район"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Ленинский район (Ростов-на-Дону)"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Советский район (Ростов-на-Дону)"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Миллеровский район"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Зверево"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Волгодонск"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Новошахтинск"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Сальский район"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Чертковский район"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Усть-Донецкий район"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Октябрьский район (Ростовская область)"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Зерноградский район"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Новочеркасск"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Красносулинский район"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Ворошиловский район (Ростов-на-Дону)"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Таганрог"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Октябрьский район (Ростов-на-Дону)"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Кировский район (Ростов-на-Дону)"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Гуково (город)"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Мясниковский район"
+        },
+        {
+            "name": "asdasdf",
+            "photoSrc": "asdasdf",
+            "linkHref": "asdasdf",
+            "direction": "Егорлыкский район"
+        }
+    ]
+}

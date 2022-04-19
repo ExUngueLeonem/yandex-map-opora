@@ -177,7 +177,6 @@ const oporaMembersData = {
 
 /* ================================================================= */
 
-
 const fs = require("fs");
 
 function generateColor() {
@@ -234,11 +233,13 @@ function generateOutputJson(path = "./input.geojson") {
                 "stroke-opacity": 0.9
             }
 
+            //делает ростовскую область красной и удаляет название
             if (features.properties.wikipedia.slice(3) === "Ростовская область") {
                 //features.geometry.type = "LineString"; features.geometry.coordinates = features.geometry.coordinates[0];    //меняет полигон на LineString
                 features.properties.name = '';
                 features.properties.fill = '#b90710';
             }
+
             return true
         }
         return false
@@ -248,8 +249,8 @@ function generateOutputJson(path = "./input.geojson") {
         "type": "FeatureCollection",
         "generator": "JOSM",
     }
-    resObj.features = result;
 
+    //перемещает указанную область на верх массива
     function elemBubbling(elemName, arr) {
         let result = arr
         result.sort((a, b) => {
@@ -258,9 +259,9 @@ function generateOutputJson(path = "./input.geojson") {
         })
         return result
     }
-
     result = elemBubbling('Ростовская область', result);
-
+    
+    resObj.features = result;
     return JSONfileContent = JSON.stringify(resObj);
 }
 
